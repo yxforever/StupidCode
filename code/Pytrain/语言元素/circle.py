@@ -1,3 +1,6 @@
+"""
+求圆的周长、面积
+"""
 import math
 
 radius = float(input('请输入圆的半径：'))
