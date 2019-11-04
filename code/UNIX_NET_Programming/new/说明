@@ -1,4 +1,0 @@
-说明：
-error.c包含了err_***函数的定义
-my.h包含了需要的宏定义和所有的头文件，基本取自unp.h
-wrapsock.c包含了套接口的包裹函数（就是错误处理函数），取自wrapsock.c和wrapunix.c
